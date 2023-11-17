@@ -1,0 +1,5 @@
+IP : 84.201.177.135
+name_taski: https://waynje.hopto.org/
+name_kittygram: https://meowhub.servebeer.com/
+login: ageevy
+password: Md2180sv
