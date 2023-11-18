@@ -1,4 +1,4 @@
-export const URL = "http://127.0.0.1:8080";
+export const URL = "127.0.0.0:8080";
 
 export const colorsList = [
   "#FFE4C4",
